@@ -139,7 +139,8 @@ Remove `webdna.plist` from
 
 ## License
 
-See [LICENSE](LICENSE). You're free to share and adapt this module.
+Licensed under the **Apache License 2.0** — see [LICENSE](LICENSE). You're free
+to use, share, modify and redistribute this module, including commercially.
 
 ## Credits
 
