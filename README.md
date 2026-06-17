@@ -5,9 +5,6 @@ A **Codeless Language Module (CLM)** that adds WebDNA syntax colouring to
 built-in value tags, comments and strings in `.dna`, `.tpl`, `.inc`, `.html`
 and related files — no compilation or plugins required.
 
-The keyword set is kept in sync with the
-[WebDNA VS Code extension](https://github.com/deepworks-net/webdna-vscode) grammar.
-
 ---
 
 ## What it does
