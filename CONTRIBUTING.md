@@ -32,8 +32,6 @@ protected and does not accept direct pushes.
 
 - This repo is a **Codeless Language Module only**. A compiled BBEdit plugin
   (`.bblm`) is out of scope.
-- This project is **independent** of the WebDNA VS Code extension. Please don't
-  add VS Code / TextMate grammar files (`*.tmLanguage.json`) here.
 
 ## License
 
