@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BBEditDocumentType</key>
+	<string>CodelessLanguageModule</string>
+	<key>BBLMColorsSyntax</key>
+	<true/>
+	<key>BBLMIsCaseSensitive</key>
+	<false/>
+	<key>BBLMLanguageCode</key>
+	<string>wbDA</string>
+	<key>BBLMLanguageDisplayName</key>
+	<string>WebDNA</string>
+	<key>BBLMScansFunctions</key>
+	<false/>
+	<key>BBLMKeywordList</key>
+	<array>
+		<string>add</string>
+		<string>addfields</string>
+		<string>addlineitem</string>
+		<string>append</string>
+		<string>appendfile</string>
+		<string>applescript</string>
+		<string>arrayget</string>
+		<string>arrayset</string>
+		<string>authenticate</string>
+		<string>blank</string>
+		<string>boldwords</string>
+		<string>browsername</string>
+		<string>calcfilecrc32</string>
+		<string>capitalize</string>
+		<string>cart</string>
+		<string>case</string>
+		<string>clear</string>
+		<string>clearlineitems</string>
+		<string>closedatabase</string>
+		<string>command</string>
+		<string>commitdatabase</string>
+		<string>convertchars</string>
+		<string>convertwords</string>
+		<string>copyfile</string>
+		<string>copyfolder</string>
+		<string>countchars</string>
+		<string>countwords</string>
+		<string>createfolder</string>
+		<string>date</string>
+		<string>ddeconnect</string>
+		<string>ddesend</string>
+		<string>decrypt</string>
+		<string>default</string>
+		<string>delete</string>
+		<string>deletefile</string>
+		<string>deletefolder</string>
+		<string>dos</string>
+		<string>elapsedtime</string>
+		<string>else</string>
+		<string>encrypt</string>
+		<string>exclusivelock</string>
+		<string>filecompare</string>
+		<string>fileinfo</string>
+		<string>findstring</string>
+		<string>flushcache</string>
+		<string>flushdatabases</string>
+		<string>format</string>
+		<string>formvariables</string>
+		<string>founditems</string>
+		<string>freememory</string>
+		<string>function</string>
+		<string>getchars</string>
+		<string>getcookie</string>
+		<string>getmimeheader</string>
+		<string>grep</string>
+		<string>hideif</string>
+		<string>html1</string>
+		<string>html2</string>
+		<string>html3</string>
+		<string>httpmethod</string>
+		<string>if</string>
+		<string>include</string>
+		<string>input</string>
+		<string>interpret</string>
+		<string>ipaddress</string>
+		<string>issecureclient</string>
+		<string>lastautonumber</string>
+		<string>lineitems</string>
+		<string>listchars</string>
+		<string>listcookies</string>
+		<string>listdatabases</string>
+		<string>listfields</string>
+		<string>listfiles</string>
+		<string>listmimeheaders</string>
+		<string>listpath</string>
+		<string>listvariables</string>
+		<string>listwords</string>
+		<string>lookinfield</string>
+		<string>lookup</string>
+		<string>lowercase</string>
+		<string>math</string>
+		<string>movefile</string>
+		<string>newcartsearch</string>
+		<string>numfound</string>
+		<string>object</string>
+		<string>orderfile</string>
+		<string>password</string>
+		<string>permredirect</string>
+		<string>protect</string>
+		<string>purchase</string>
+		<string>random</string>
+		<string>raw</string>
+		<string>redirect</string>
+		<string>referrer</string>
+		<string>remove</string>
+		<string>removehtml</string>
+		<string>removelineitems</string>
+		<string>replace</string>
+		<string>replacefounditems</string>
+		<string>return</string>
+		<string>returnraw</string>
+		<string>scope</string>
+		<string>search</string>
+		<string>sendmail</string>
+		<string>setcookie</string>
+		<string>setheader</string>
+		<string>setlineitem</string>
+		<string>setmimeheader</string>
+		<string>shell</string>
+		<string>showcart</string>
+		<string>showif</string>
+		<string>shownext</string>
+		<string>spawn</string>
+		<string>sql</string>
+		<string>sqlconnect</string>
+		<string>sqldisconnect</string>
+		<string>sqlexecute</string>
+		<string>sqlinfo</string>
+		<string>sqlrelease</string>
+		<string>sqlresult</string>
+		<string>switch</string>
+		<string>table</string>
+		<string>tcpconnect</string>
+		<string>tcpsend</string>
+		<string>text</string>
+		<string>then</string>
+		<string>thisurl</string>
+		<string>time</string>
+		<string>unurl</string>
+		<string>uppercase</string>
+		<string>url</string>
+		<string>username</string>
+		<string>validcard</string>
+		<string>version</string>
+		<string>waitforfile</string>
+		<string>xmlnode</string>
+		<string>xmlnodes</string>
+		<string>xmlnodesattributes</string>
+		<string>xmlparse</string>
+		<string>xsl</string>
+		<string>xslt</string>
+	</array>
+	<key>BBLMPredefinedNameList</key>
+	<array>
+		<string>allownull</string>
+		<string>canemail</string>
+		<string>char</string>
+		<string>createdate</string>
+		<string>createtime</string>
+		<string>datatype</string>
+		<string>delimiter</string>
+		<string>exists</string>
+		<string>fieldname</string>
+		<string>filename</string>
+		<string>fullpath</string>
+		<string>imageheight</string>
+		<string>imagewidth</string>
+		<string>index</string>
+		<string>isfile</string>
+		<string>isfolder</string>
+		<string>lineindex</string>
+		<string>moddate</string>
+		<string>modtime</string>
+		<string>name</string>
+		<string>numfields</string>
+		<string>numrecords</string>
+		<string>ordinal</string>
+		<string>position</string>
+		<string>price</string>
+		<string>quantity</string>
+		<string>quantityprice</string>
+		<string>secure</string>
+		<string>size</string>
+		<string>sku</string>
+		<string>startpath</string>
+		<string>taxable</string>
+		<string>texta</string>
+		<string>textb</string>
+		<string>textc</string>
+		<string>textd</string>
+		<string>texte</string>
+		<string>unitshipcost</string>
+		<string>value</string>
+		<string>word</string>
+	</array>
+	<key>BBLMSuffixMap</key>
+	<array>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.html</string>
+		</dict>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.inc</string>
+		</dict>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.dna</string>
+		</dict>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.tpl</string>
+		</dict>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.dnalib</string>
+		</dict>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.lib</string>
+		</dict>
+	</array>
+	<key>Language Features</key>
+	<dict>
+		<key>Open Block Comments</key>
+		<string>[!]</string>
+		<key>Close Block Comments</key>
+		<string>[/!]</string>
+		<key>Open Line Comments</key>
+		<string></string>
+		<key>Open Strings 1</key>
+		<string>"</string>
+		<key>Close Strings 1</key>
+		<string>"</string>
+		<key>End-of-line Ends Strings 1</key>
+		<true/>
+		<key>Escape Char in Strings 1</key>
+		<string>\</string>
+		<key>Open Strings 2</key>
+		<string></string>
+		<key>Close Strings 2</key>
+		<string></string>
+		<key>End-of-line Ends Strings 2</key>
+		<true/>
+		<key>Escape Char in Strings 2</key>
+		<string></string>
+		<key>Open Parameter Lists</key>
+		<string></string>
+		<key>Close Parameter Lists</key>
+		<string></string>
+		<key>Open Statement Blocks</key>
+		<string></string>
+		<key>Close Statement Blocks</key>
+		<string></string>
+		<key>Prefix for Functions</key>
+		<string></string>
+		<key>Prefix for Procedures</key>
+		<string></string>
+		<key>Terminator for Prototypes 1</key>
+		<string></string>
+		<key>Terminator for Prototypes 2</key>
+		<string></string>
+		<key>Identifier and Keyword Characters</key>
+		<string>0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz</string>
+	</dict>
+</dict>
+</plist>
