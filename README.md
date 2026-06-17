@@ -29,7 +29,7 @@ These are limits of BBEdit's *codeless* modules, not bugs:
   not do per-context parameter colouring (e.g. `&db=`, `&value=`).
 
 Full HTML-aware, context-sensitive colouring (like the VS Code extension) would
-require a *compiled* BBEdit language module, which is a separate native project.
+require a *compiled* BBEdit language module, which is a separate native project that we will not be creating.
 
 ---
 
