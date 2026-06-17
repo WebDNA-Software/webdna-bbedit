@@ -1,1 +1,4 @@
 .DS_Store
+
+# Local-only agent guidance — not for publication
+CLAUDE.md
